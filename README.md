@@ -14,8 +14,4 @@ Working on this project gave me a better understanding of:
 - How Elastic Beanstalk automates deployments
 - The importance of containerisation for consistent app performance
 
- Files
-- `Dockerfile` – instructions to build the custom Docker image  
-- `index.html` – basic web page for testing deployment  
-- `docs/project-report.pdf` – detailed summary of my work and results
 
